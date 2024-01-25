@@ -1,0 +1,8 @@
+# http
+http/*
+
+# environment
+.env
+
+# go
+tmp/*
